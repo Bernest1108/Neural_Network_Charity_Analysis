@@ -42,5 +42,3 @@ Overall, each attempt hovered just under 73% and was ultimately unsuccessful in 
 | Attempt 1 | 0.7273 |
 | Attempt 2 | 0.7284 |
 | Attempt 3 | 0.7278 |
-
-For future models in order to improve the accuracy score, I would recommend utilizing [KerasTuner](https://keras.io/keras_tuner/) in order to create an algorithm that will tune the parameters throughout the epochs. But also I would recommend binning the `ASK_AMT` column so as to not have a feature that is so varied.

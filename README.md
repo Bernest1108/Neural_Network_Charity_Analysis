@@ -4,7 +4,7 @@ Alphabet Soup is a non-profit foundations that focuses on funding organizations 
 
 ## Results
 ### Preprocessing
-The original [dataset](https://github.com/aKnownSaltMine/Neural_Network_Charity_Analysis/blob/main/Resources/charity_data.csv) given for processing contained the following sections for each applicant: 
+The data for processing contained the following sections for each applicant: 
 * EIN
 * Name
 * Application_Type
